@@ -5,7 +5,7 @@ Robotic Software Engineer Nanodegree Projects
 ***Project Title***: Build My World  
 ***Project Goal***: 
 - Design an office world in Gazebo.
-- ![image](https://github.com/tolgakarakurt/rse-projects/blob/develop/200.gif)
+- ![myoffice](https://github.com/tolgakarakurt/udacity-project1/blob/develop/project1-world.png)
 - Project-1 [directory](https://github.com/tolgakarakurt/udacity-project1)
 
 #### Project-2
