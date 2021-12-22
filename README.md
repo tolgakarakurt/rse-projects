@@ -15,7 +15,8 @@ Robotic Software Engineer Nanodegree Projects
 - Use the world environment created in project1,
 - Create a white ball detector algorithm,
 - Drive the robot toward the ball and stop once nothing appears on the cam.
-
+- ![ball chaser](https://github.com/tolgakarakurt/udacity-project2/blob/develop/ball-chaser1.gif)
+- ![ball chaser](https://github.com/tolgakarakurt/udacity-project2/blob/develop/ball-chaser2.gif)
 - Project-2 [directory](https://github.com/tolgakarakurt/udacity-project2)
 
 #### Project-3
