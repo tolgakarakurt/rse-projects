@@ -36,7 +36,6 @@ Robotic Software Engineer Nanodegree Projects
 - ![slam](https://github.com/tolgakarakurt/udacity-project4/blob/develop/slam1.png)
 - ![slam](https://github.com/tolgakarakurt/udacity-project4/blob/develop/slam2.png)
 - ![slam](https://github.com/tolgakarakurt/udacity-project4/blob/develop/slam3.png)
-
 - Project-4 [directory](https://github.com/tolgakarakurt/udacity-project4)
 
 
