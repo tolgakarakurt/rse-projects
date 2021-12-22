@@ -23,7 +23,9 @@ Robotic Software Engineer Nanodegree Projects
 ***Project Title***: Where Am I?  
 ***Project Goals***: 
 - Robot Localizaton using Adaptive Monte Carlo Localization Algorithms.
-
+- ![amcl](https://github.com/tolgakarakurt/udacity-project3/blob/develop/amcl-1.gif)
+- ![amcl](https://github.com/tolgakarakurt/udacity-project3/blob/develop/amcl-2.gif)
+- ![amcl](https://github.com/tolgakarakurt/udacity-project3/blob/develop/amcl-4.gif)
 - Project-3 [directory](https://github.com/tolgakarakurt/udacity-project3)
 
 
