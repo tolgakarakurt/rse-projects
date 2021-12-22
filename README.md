@@ -32,8 +32,10 @@ Robotic Software Engineer Nanodegree Projects
 #### Project-4
 ***Project Title***: Map My World?  
 ***Project Goals***: 
-- Create 2D occupancy grid and 3D octomap from a simulated environment with the RTAB-Map package.
-
+- Create 2D occupancy grid and 3D octomap from a simulated environment with the RTAB-Map (Real-Time Appearance-Based Mapping) package.
+- ![slam](https://github.com/tolgakarakurt/udacity-project4/blob/develop/slam1.png)
+- ![slam](https://github.com/tolgakarakurt/udacity-project4/blob/develop/slam2.png)
+- ![slam](https://github.com/tolgakarakurt/udacity-project4/blob/develop/slam3.png)
 
 - Project-4 [directory](https://github.com/tolgakarakurt/udacity-project4)
 
