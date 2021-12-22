@@ -43,7 +43,6 @@ Robotic Software Engineer Nanodegree Projects
 ***Project Title***: Home Service Robot   
 ***Project Goals***: 
 - Program a home service robot that will autonomously map an environment and navigate to pick up and deliver objects.
-
 - Project-5 [directory](https://github.com/tolgakarakurt/udacity-project5)
 - YouTube upload:[test_navigation.sh](https://youtu.be/_3M2Jn7vQnE)
 - YouTube upload:[home_service.sh](https://youtu.be/kz-dEThbIAo)
